@@ -6,23 +6,23 @@
         <description>OneNotch beta updates</description>
         <language>en</language>
         <item>
-            <title>OneNotch 0.1.0</title>
+            <title>OneNotch 0.1.0 (4)</title>
             <description><![CDATA[
-                <p>First public OneNotch beta release.</p>
+                <p>OneNotch beta update.</p>
                 <ul>
-                    <li>Clipboard history, media controls, Live Activities, timers, calendar, and AI agent status.</li>
-                    <li>Updated OneNotch icon across the app and installer.</li>
+                    <li>Improved and expanded the onboarding experience.</li>
+                    <li>Updated onboarding translations.</li>
                     <li>Signed with Developer ID and notarized by Apple.</li>
                 </ul>
             ]]></description>
-            <pubDate>Thu, 16 Jul 2026 17:59:17 +0700</pubDate>
+            <pubDate>Fri, 17 Jul 2026 10:32:32 +0700</pubDate>
             <enclosure
-                url="https://github.com/tranhuy2706/OneNotch-releases/releases/download/v0.1.0/OneNotch-0.1.0-3.dmg"
-                sparkle:version="3"
+                url="https://github.com/tranhuy2706/OneNotch-releases/releases/download/v0.1.0/OneNotch-0.1.0-4.dmg"
+                sparkle:version="4"
                 sparkle:shortVersionString="0.1.0"
-                length="49636914"
+                length="49676320"
                 type="application/octet-stream"
-                sparkle:edSignature="ZbkkF6Tmfb4QIo0yBoQlY7jPCGTiiNOeSC3b9lE7QvQ3CvPxZuylj2m7ESxk42qBbtj8ilGH+aGu2bPVFIphDg=="
+                sparkle:edSignature="ku7MuVT+57YWNis85F5zkVRR4U/nrPnN66Cvd5DqQG71onPq4kahuo08wAGV/CXa03+MV+kd1JSORhnR8PORCQ=="
             />
         </item>
     </channel>
