@@ -6,6 +6,28 @@
         <description>OneNotch beta updates</description>
         <language>en</language>
         <item>
+            <title>OneNotch 0.1.1 (5)</title>
+            <description><![CDATA[
+                <p>Faster clipboard workflows directly from the notch.</p>
+                <ul>
+                    <li>Navigate items with the Left, Right, Up, and Down arrow keys.</li>
+                    <li>Jump to items with Command+1, Command+2, and additional number shortcuts.</li>
+                    <li>See rich image previews for copied website links.</li>
+                    <li>Sort clipboard items and delete them directly from the notch.</li>
+                    <li>Signed with Developer ID and notarized by Apple.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 17 Jul 2026 16:01:51 +0700</pubDate>
+            <enclosure
+                url="https://github.com/tranhuy2706/OneNotch-releases/releases/download/v0.1.1/OneNotch-0.1.1-5.dmg"
+                sparkle:version="5"
+                sparkle:shortVersionString="0.1.1"
+                length="49954931"
+                type="application/octet-stream"
+                sparkle:edSignature="sGKTXo5V7T2Iv590UKv9QJK9Q1Eu93vv/D8hr1YMiBTf81ooy1qMlGdqEIA79mmt+dUYSAF7qKdhVyz+TyF0Dw=="
+            />
+        </item>
+        <item>
             <title>OneNotch 0.1.0 (4)</title>
             <description><![CDATA[
                 <p>OneNotch beta update.</p>

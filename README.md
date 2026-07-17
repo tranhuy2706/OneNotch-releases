@@ -30,7 +30,7 @@ displays.
 
 ## Download
 
-The current public beta is **OneNotch 0.1.0 (build 4)**.
+The current public beta is **OneNotch 0.1.1 (build 5)**.
 
 [**Download the latest OneNotch DMG**](https://github.com/tranhuy2706/OneNotch-releases/releases/latest/download/OneNotch.dmg)
 
@@ -56,10 +56,10 @@ versioned DMGs remain attached to their GitHub Release for reference.
 Every public DMG is signed with an Apple Developer ID certificate, notarized by
 Apple, and stapled before upload.
 
-SHA-256 for **OneNotch 0.1.0 (build 4)**:
+SHA-256 for **OneNotch 0.1.1 (build 5)**:
 
 ```text
-b85083703aa8301ed2ed5e38e5cef81b2b0f4bdc5e2ee0795dcd361817508054
+522af92257471fbe20ec84da606c579e3cfb2cad90c576fb5e6372fa9faceb3f
 ```
 
 Verify a downloaded file in Terminal:
