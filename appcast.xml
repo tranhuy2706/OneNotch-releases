@@ -6,6 +6,29 @@
         <description>OneNotch beta updates</description>
         <language>en</language>
         <item>
+            <title>OneNotch 1.2.0 (7)</title>
+            <description><![CDATA[
+                <p>A major clipboard upgrade built for fast, focused workflows.</p>
+                <ul>
+                    <li>Select multiple clipboard items and paste them as an ordered queue.</li>
+                    <li>Use Copy Stack to collect items while you work, then paste them one by one with a global shortcut.</li>
+                    <li>Run OneNotch as a focused clipboard manager from the menu bar without the notch interface.</li>
+                    <li>Jump back to the original web page for content copied from supported browsers.</li>
+                    <li>Pause clipboard capture anytime and keep up to 200 items in history.</li>
+                    <li>Improved copy feedback, loading states, hover visuals, and usage details.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 20 Jul 2026 21:41:26 +0700</pubDate>
+            <enclosure
+                url="https://github.com/tranhuy2706/OneNotch-releases/releases/download/v1.2.0/OneNotch-1.2.0-7.dmg"
+                sparkle:version="7"
+                sparkle:shortVersionString="1.2.0"
+                length="50230040"
+                type="application/octet-stream"
+                sparkle:edSignature="pXes+njEMV5aw1/MgcjGYrhGtFUbuHUJFp/gWi7qtmIbXrOxsM2BG7hLdCXiGKj33IeOjnz+RKNN7dlVjFx1Cg=="
+            />
+        </item>
+        <item>
             <title>OneNotch 0.1.2 (6)</title>
             <description><![CDATA[
                 <p>A smoother, more flexible clipboard experience.</p>
