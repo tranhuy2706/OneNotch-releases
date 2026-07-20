@@ -6,6 +6,30 @@
         <description>OneNotch beta updates</description>
         <language>en</language>
         <item>
+            <title>OneNotch 0.1.2 (6)</title>
+            <description><![CDATA[
+                <p>More control over clipboard workflows and OneNotch access.</p>
+                <ul>
+                    <li>Activate, check, and deactivate OneNotch Pro licenses from Settings.</li>
+                    <li>See clearer labels and previews for files, images, and SVG clipboard items.</li>
+                    <li>Recognize six-character hexadecimal colors without a leading # using the new clipboard setting.</li>
+                    <li>Optionally hide the closed notch while idle and reveal it again on hover or activity.</li>
+                    <li>Improved clipboard dragging and floating panel presentation.</li>
+                    <li>Updated usage details, translations, and interface polish.</li>
+                    <li>Signed with Developer ID and notarized by Apple.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 20 Jul 2026 09:16:59 +0700</pubDate>
+            <enclosure
+                url="https://github.com/tranhuy2706/OneNotch-releases/releases/download/v0.1.2/OneNotch-0.1.2-6.dmg"
+                sparkle:version="6"
+                sparkle:shortVersionString="0.1.2"
+                length="50098602"
+                type="application/octet-stream"
+                sparkle:edSignature="TqbqJGb3dxF6BuGM1XcqVymCxHEqx9q8id2mXECVd+oB1FKNoGzmxjClt8m9UmDac+ZHamrRkW8pIlgxARRMDA=="
+            />
+        </item>
+        <item>
             <title>OneNotch 0.1.1 (5)</title>
             <description><![CDATA[
                 <p>Faster clipboard workflows directly from the notch.</p>
