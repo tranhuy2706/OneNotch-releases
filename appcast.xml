@@ -6,26 +6,26 @@
         <description>OneNotch beta updates</description>
         <language>en</language>
         <item>
-            <title>OneNotch 1.2.0 (7)</title>
+            <title>OneNotch 1.2.0 (8)</title>
             <description><![CDATA[
-                <p>A major clipboard upgrade built for fast, focused workflows.</p>
+                <p>A smarter clipboard with OCR, richer previews, quick actions, and deeper control.</p>
                 <ul>
-                    <li>Select multiple clipboard items and paste them as an ordered queue.</li>
-                    <li>Use Copy Stack to collect items while you work, then paste them one by one with a global shortcut.</li>
-                    <li>Run OneNotch as a focused clipboard manager from the menu bar without the notch interface.</li>
-                    <li>Jump back to the original web page for content copied from supported browsers.</li>
-                    <li>Pause clipboard capture anytime and keep up to 200 items in history.</li>
-                    <li>Improved copy feedback, loading states, hover visuals, and usage details.</li>
+                    <li>Extract and copy text directly from images in your clipboard.</li>
+                    <li>Inspect clipboard items in a new, dedicated preview panel.</li>
+                    <li>Search copied text on Google or copy a clean, normalized version from the context menu.</li>
+                    <li>Choose apps whose copied content should never be saved to clipboard history.</li>
+                    <li>Disable the Media or AI Agent page when you want a simpler notch.</li>
+                    <li>Improved panel scrolling, keyboard navigation, Return-to-paste, Copy Stack cleanup, and Settings.</li>
                 </ul>
             ]]></description>
-            <pubDate>Mon, 20 Jul 2026 21:41:26 +0700</pubDate>
+            <pubDate>Tue, 21 Jul 2026 18:04:48 +0700</pubDate>
             <enclosure
-                url="https://github.com/tranhuy2706/OneNotch-releases/releases/download/v1.2.0/OneNotch-1.2.0-7.dmg"
-                sparkle:version="7"
+                url="https://github.com/tranhuy2706/OneNotch-releases/releases/download/v1.2.0/OneNotch-1.2.0-8.dmg"
+                sparkle:version="8"
                 sparkle:shortVersionString="1.2.0"
-                length="50230040"
+                length="50347547"
                 type="application/octet-stream"
-                sparkle:edSignature="pXes+njEMV5aw1/MgcjGYrhGtFUbuHUJFp/gWi7qtmIbXrOxsM2BG7hLdCXiGKj33IeOjnz+RKNN7dlVjFx1Cg=="
+                sparkle:edSignature="6B0vYlIav41iG7UhQ7kcCufxoH+snXWQKeSyE14kOSJ1ekU9Nnt/uTwvtv99vzvcCtGZrGqoG1ySzdwqdl4BCw=="
             />
         </item>
         <item>
