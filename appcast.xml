@@ -6,6 +6,25 @@
         <description>OneNotch beta updates</description>
         <language>en</language>
         <item>
+            <title>OneNotch 1.1.3 (10)</title>
+            <description><![CDATA[
+                <p>A focused maintenance update for smoother, more efficient everyday use.</p>
+                <ul>
+                    <li>Reduced unnecessary processing in frequently updating interface elements.</li>
+                    <li>Improved animation efficiency for smoother performance with lower CPU activity.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 24 Jul 2026 08:16:10 +0700</pubDate>
+            <enclosure
+                url="https://github.com/tranhuy2706/OneNotch-releases/releases/download/v1.1.3/OneNotch-1.1.3-10.dmg"
+                sparkle:version="10"
+                sparkle:shortVersionString="1.1.3"
+                length="50433703"
+                type="application/octet-stream"
+                sparkle:edSignature="022SQsNt18EcX1mZSoCuKavetkciIKdTYlHSvlgcePSLIG1zD0qEJC7iy9+WLpPU8RuM8Rs1WjF6+1ha++6ABw=="
+            />
+        </item>
+        <item>
             <title>OneNotch 1.3.0 (9)</title>
             <description><![CDATA[
                 <p>Clearer AI agent activity, more reliable clipboard previews, and better energy efficiency.</p>
